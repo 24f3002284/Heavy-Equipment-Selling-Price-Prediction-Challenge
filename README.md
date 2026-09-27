@@ -32,4 +32,4 @@ Python, pandas, NumPy, scikit-learn, LightGBM, XGBoost, CatBoost, seaborn, matpl
 
 ## Repo contents
 
-- `notebook.ipynb` — full EDA, feature engineering, and modeling pipeline
+- notebook.ipynb — full EDA, feature engineering, and modeling pipeline
